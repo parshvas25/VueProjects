@@ -1,6 +1,6 @@
 # vuetodo
 
-To do application
+To do application created
 ## Project setup
 ```
 npm install
